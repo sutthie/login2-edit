@@ -1,0 +1,6 @@
+[
+     { "id": 1, "fname": "สมชาย","lname": "สมชาย", "age": 21, "email": "somchy@email.com" },
+     { "id": 2, "fname": "สมหญิง","lname": "สมชาย", "age": 19, "email": "somying@email.com" },
+     { "id": 3, "fname": "สมทรง","lname": "สมทรงคะ", "age": 16, "email": "saad@email.com" },
+     { "id": 4, "fname": "สมศรี","lname": "สมศรีคะ", "age": 25, "email": "asad@email.com" }
+]
